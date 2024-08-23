@@ -3,8 +3,10 @@
     padding: 0;
 }
 body{
-    background-image: url("number.jpg");
+    background-image: url("number1.jpg");
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
 }
 .container{
